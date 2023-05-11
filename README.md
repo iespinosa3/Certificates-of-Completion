@@ -12,10 +12,7 @@ Certificates of Completion
 
 </br>
 </br>
-<p align="center">
-<img src="</br>
-</br>
+
 <p align="center">
 <img src="https://d1ka0itfguscri.cloudfront.net/r5Jl/2023/05/11/18/41/c0hXFpVAQvt/preview.jpg" alt="osTicket logo"/>
-</p>" alt="osTicket logo"/>
 </p>
