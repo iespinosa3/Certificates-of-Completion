@@ -16,3 +16,11 @@ Certificates of Completion
 <p align="center">
 <img src="https://d1ka0itfguscri.cloudfront.net/r5Jl/2023/05/11/18/41/c0hXFpVAQvt/preview.jpg" alt="osTicket logo"/>
 </p>
+
+</br>
+</br>
+
+<p align="center">
+<img src="https://d1ka0itfguscri.cloudfront.net/r5Jl/2024/01/23/19/44/cZV0qEVJzui/preview.jpg" alt="osTicket logo"/>
+</p>
+
