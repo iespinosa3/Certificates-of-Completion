@@ -1,5 +1,17 @@
 # Certificates-of-Completion
 Certificates of Completion
+
+<p align="center">
+<img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-OCSGJGFEIJ.pdf" alt="osTicket logo"/>
+</p>
+
+</br>
+</br>
+
+
+
+
+
 <p align="center">
 <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-PXINQ3FYNB.png" alt="osTicket logo"/>
 </p>
