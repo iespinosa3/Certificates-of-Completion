@@ -2,7 +2,7 @@
 Certificates of Completion
 
 <p align="center">
-<img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-OCSGJGFEIJ.pdf" alt="cybersecurity101"/>
+<img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-OCSGJGFEIJ.png" alt="cybersecurity101"/>
 </p>
 
 </br>
